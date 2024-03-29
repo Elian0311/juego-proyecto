@@ -1,0 +1,34 @@
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.csproj.GenerateResource.cache
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.AssemblyInfoInputs.cache
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.AssemblyInfo.cs
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.csproj.CoreCompileInputs.cache
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\bin\Debug\net8.0-windows\juego.exe
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\bin\Debug\net8.0-windows\juego.deps.json
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\bin\Debug\net8.0-windows\juego.runtimeconfig.json
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\bin\Debug\net8.0-windows\juego.dll
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\bin\Debug\net8.0-windows\juego.pdb
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.dll
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\refint\juego.dll
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.pdb
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.genruntimeconfig.cache
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\ref\juego.dll
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.Form1.resources
+C:\Users\elisa\OneDrive\Desktop\tarea 2 base de datos\juego\juego\obj\Debug\net8.0-windows\juego.Properties.Resources.resources
+C:\Users\elisa\OneDrive\Desktop\juego\juego\bin\Debug\net8.0-windows\juego.exe
+C:\Users\elisa\OneDrive\Desktop\juego\juego\bin\Debug\net8.0-windows\juego.deps.json
+C:\Users\elisa\OneDrive\Desktop\juego\juego\bin\Debug\net8.0-windows\juego.runtimeconfig.json
+C:\Users\elisa\OneDrive\Desktop\juego\juego\bin\Debug\net8.0-windows\juego.dll
+C:\Users\elisa\OneDrive\Desktop\juego\juego\bin\Debug\net8.0-windows\juego.pdb
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.Form1.resources
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.Properties.Resources.resources
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.csproj.GenerateResource.cache
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.AssemblyInfoInputs.cache
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.AssemblyInfo.cs
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.csproj.CoreCompileInputs.cache
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.dll
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\refint\juego.dll
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.pdb
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\juego.genruntimeconfig.cache
+C:\Users\elisa\OneDrive\Desktop\juego\juego\obj\Debug\net8.0-windows\ref\juego.dll
